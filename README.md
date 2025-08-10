@@ -13,7 +13,7 @@
 | **MailXposed** | A full-stack web app to check if your email is breached using real APIs. Built using Node.js, Express, and vanilla JS. | [View](https://mailxposed.onrender.com) | [GitHub](https://github.com/Vaishnaviii-23/MailXposed) |
 | **Air Traffic Control Simulator** | A multithreaded C++ simulation system for managing multiple aircraft and runway usage with real-time conflict detection and logging. Designed for high-concurrency environments and demonstrates synchronization, thread safety, and event logging. | — | [GitHub](https://github.com/Vaishnaviii-23/AirTrafficSimulator) |
 | **Expense Tracker Web App** |  Allows users to track daily expenses, visualize spending trends, and manage budgets efficiently. Features CRUD operations, responsive UI, and chart visualizations. | [View](https://vaishnaviiii-23.github.io/Expense-Tracker/) | [GitHub](https://github.com/Vaishnaviii-23/ExpenseTracker) |
-
+| *My Portfolio** |  Built with modern web technologies to showcase my skills and experience in a visually appealing way. | [View](https://vaishnavi-poojari.vercel.app/) | - |
 ---
 
 ## 💻 Tech Stack
