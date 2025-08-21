@@ -15,7 +15,7 @@
 | **Air Traffic Control Simulator** | A multithreaded C++ simulation system for managing multiple aircraft and runway usage with real-time conflict detection and logging. Designed for high-concurrency environments and demonstrates synchronization, thread safety, and event logging. | — | [GitHub](https://github.com/Vaishnaviiii-23/AirTrafficSimulator) |
 | **Expense Tracker Web App** |  Allows users to track daily expenses, visualize spending trends, and manage budgets efficiently. Features CRUD operations, responsive UI, and chart visualizations. | [View](https://vaishnaviiii-23.github.io/Expense-Tracker/) | [GitHub](https://github.com/Vaishnaviiii-23/ExpenseTracker) |
 | **My Portfolio** |  Built with modern web technologies to showcase my skills and experience in a visually appealing way. | [View](https://vaishnavi-poojari.vercel.app/) | - |
-| **GlobeTrek** |  Explore countries with search, filter, pagination, and dark mode. Fetches live data from REST Countries API. | [View](https://vaishnaviiii-23.github.io/globetrek/) | [GitHub](https://github.com/Vaishnaviiii-23/GlobeTrek) |
+| **GlobeTrek** |  Explore countries with search, filter, pagination, and dark mode. Fetches live data from REST Countries API. | [View](https://vaishnaviiii-23.github.io/GlobeTrek) | [GitHub](https://github.com/Vaishnaviiii-23/GlobeTrek) |
 ---
 
 ## 💻 Tech Stack
