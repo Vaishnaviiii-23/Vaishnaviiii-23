@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Vaishnavi P Poojari
 
-🎓 Final-year Engineering student passionate about **GenAI, Cybersecurity, and Full-stack Development**  
+🎓 Final-year Engineering student passionate about **Full-stack Development,Cybersecurity, and AI**  
 💡 Building **smart, impactful projects**  
 🚀 Constantly **learning & contributing to open-source**
 
