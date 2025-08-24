@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Vaishnavi P Poojari
+# 👋 Hello, I'm Vaishnavi
 
 🎓 Final-year Engineering student passionate about **Full-stack Development,Cybersecurity, and AI**  
 💡 Building **smart, impactful projects**  
