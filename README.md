@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Vaishnavi
 
-🎓 Final-year Engineering student passionate about **Full-stack Development,Cybersecurity, and AI**  
+🎓 Final-year Engineering student passionate about **Full-stack Development, Cybersecurity, and AI**  
 💡 Building **smart, impactful projects**  
 🚀 Constantly **learning & contributing to open-source**
 
